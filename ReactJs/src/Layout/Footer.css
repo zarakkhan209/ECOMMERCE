@@ -1,0 +1,27 @@
+
+.footer {
+    color: white;
+    margin-top: 20%;
+    text-align: center;
+    padding: 25px;
+    background: #000000; 
+    background: -webkit-linear-gradient(
+      to right,
+      rgb(255, 183, 0),
+      #000000
+    );
+    background: linear-gradient(to right, rgb(255, 162, 0), #000000);
+  }
+  
+  .footer a {
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+  }
+  
+  .footer a:hover {
+    color: #ffefba;
+    border-bottom: 1px solid #ffefba;
+  }
